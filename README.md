@@ -1,2 +1,2 @@
-# Spock-Telegram
-A kotlin bot for Telegram
+# A kotlin bot for Telegram which working with Yandex Disk API.
+
